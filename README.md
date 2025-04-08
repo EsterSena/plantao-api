@@ -7,6 +7,7 @@
 A proposta é simples:  
 As **clínicas** cadastram seus horários de plantão e os **médicos** acessam essas informações através de um aplicativo, facilitando a organização e a comunicação entre ambas as partes.
 
+O projeto ainda está em andamento, mas as rotas e parte de autenticação já estão sendo desenvolvidas 
 ---
 
 ## 🚀 Tecnologias utilizadas
@@ -22,6 +23,7 @@ As **clínicas** cadastram seus horários de plantão e os **médicos** acessam 
 
 ```bash
 # Clone o repositório
+https://github.com/EsterSena/plantao-api
 
 # Acesse a pasta do projeto
 cd plantao-api
