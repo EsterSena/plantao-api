@@ -5,6 +5,7 @@
 A proposta é simples:  
 As **clínicas** cadastram seus horários de plantão e os **médicos** acessam essas informações através de um aplicativo, facilitando a organização e a comunicação entre ambas as partes.
 
+O projeto ainda está em andamento, mas as rotas e parte de autenticação já estão sendo desenvolvidas 
 ---
 
 ## 🚀 Tecnologias utilizadas
