@@ -1,5 +1,7 @@
 # 🩺 Plantão API
 
+![Banner do projeto](./server/images/plantao-logo.png)
+
 **Plantão API** é um projeto voltado para a área da saúde, desenvolvido com o objetivo de demonstrar meus conhecimentos na área de desenvolvimento, ao mesmo tempo, oferecer uma solução prática para o gerenciamento de plantões médicos em clínicas.
 
 A proposta é simples:  
