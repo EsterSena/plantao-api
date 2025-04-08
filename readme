@@ -20,6 +20,7 @@ As **clínicas** cadastram seus horários de plantão e os **médicos** acessam 
 
 ```bash
 # Clone o repositório
+https://github.com/EsterSena/plantao-api
 
 # Acesse a pasta do projeto
 cd plantao-api
